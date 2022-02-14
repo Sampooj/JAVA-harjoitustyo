@@ -1,0 +1,12 @@
+echo
+remove 17033
+remove 1023
+remove 3225
+remove 22996
+remove 21576
+remove 20255
+remove 13876
+print
+reset
+print
+quit

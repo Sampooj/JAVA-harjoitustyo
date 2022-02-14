@@ -1,0 +1,83 @@
+Welcome to L.O.T.
+Please, enter a command:
+echo
+Please, enter a command:
+remove 11
+Please, enter a command:
+print 11
+Error!
+Please, enter a command:
+print
+1///miscellaneous///Q. What's the difference between ignorance and apathy? A. I don't know and I don't care.
+2///miscellaneous///Did you hear about the semi-colon that broke the law? He was given two consecutive sentences.
+3///miscellaneous///Nothing sucks like a Hoover.
+4///miscellaneous///This may be the wine talking, but I really, really, really, really love wine.
+5///computing///Q. What is the biggest lie in the entire universe? A. "I have read and agree to the Terms & Conditions."
+6///computing///Q. How does a computer get drunk? A. It takes screenshots.
+7///computing///Q: How many programmers does it take to change a light bulb? A: None. It's a hardware problem.
+8///computing///A SQL query goes into a bar, walks up to two tables and asks, "Can I join you?"
+9///computing///If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl programs.
+10///computing///To understand what recursion is, you must first understand recursion.
+12///computing///When your hammer is C++, everything begins to look like a thumb.
+Please, enter a command:
+remove 1
+Please, enter a command:
+print 1
+Error!
+Please, enter a command:
+remove 12
+Please, enter a command:
+print 12
+Error!
+Please, enter a command:
+print
+2///miscellaneous///Did you hear about the semi-colon that broke the law? He was given two consecutive sentences.
+3///miscellaneous///Nothing sucks like a Hoover.
+4///miscellaneous///This may be the wine talking, but I really, really, really, really love wine.
+5///computing///Q. What is the biggest lie in the entire universe? A. "I have read and agree to the Terms & Conditions."
+6///computing///Q. How does a computer get drunk? A. It takes screenshots.
+7///computing///Q: How many programmers does it take to change a light bulb? A: None. It's a hardware problem.
+8///computing///A SQL query goes into a bar, walks up to two tables and asks, "Can I join you?"
+9///computing///If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl programs.
+10///computing///To understand what recursion is, you must first understand recursion.
+Please, enter a command:
+remove 0
+Error!
+Please, enter a command:
+remove 12345
+Error!
+Please, enter a command:
+remove 1
+Error!
+Please, enter a command:
+remove 11
+Error!
+Please, enter a command:
+remove 12
+Error!
+Please, enter a command:
+remove
+Error!
+Please, enter a command:
+remove 6 7
+Error!
+Please, enter a command:
+remove x
+Error!
+Please, enter a command:
+remove this and that
+Error!
+Please, enter a command:
+print
+2///miscellaneous///Did you hear about the semi-colon that broke the law? He was given two consecutive sentences.
+3///miscellaneous///Nothing sucks like a Hoover.
+4///miscellaneous///This may be the wine talking, but I really, really, really, really love wine.
+5///computing///Q. What is the biggest lie in the entire universe? A. "I have read and agree to the Terms & Conditions."
+6///computing///Q. How does a computer get drunk? A. It takes screenshots.
+7///computing///Q: How many programmers does it take to change a light bulb? A: None. It's a hardware problem.
+8///computing///A SQL query goes into a bar, walks up to two tables and asks, "Can I join you?"
+9///computing///If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl programs.
+10///computing///To understand what recursion is, you must first understand recursion.
+Please, enter a command:
+quit
+Program terminated.

@@ -1,0 +1,8 @@
+echo
+polish ,.&:"()$-'
+freqs
+sort date
+print
+sort id
+pprint 120
+quit

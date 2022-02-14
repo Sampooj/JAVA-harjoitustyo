@@ -1,0 +1,17 @@
+Welcome to L.O.T.
+Please, enter a command:
+echo
+Please, enter a command:
+polish .,'/"-&;
+Please, enter a command:
+print
+1023///3.3.1987///sandoz ag said planned joint venture produce herbicides soviet union company said signed letter intent soviet ministry fertiliser production form foreign joint venture ministry undertaken soviet union allowed western firms enter joint ventures months ago ministry sandoz 50 pct stake company spokeswoman unable details size investment planned output
+3225///9.3.1987///ghana cocoa board said purchased 1323 tonnes cocoa 21st week ended february 26 198687 main crop season compared 1961 tonnes previous week 1344 tonnes 21st week ended march 198586 season board said cumulative purchases far season stand 216095 tonnes 201966 tonnes purchased 21st week season board said
+13876///7.4.1987///pyramid technology corp said reached agreement sell oracle corps oracle database relational technology incs ingres database pyramid direct sales force original equipment manufactures valueadded resellers company said develop separate joint engineering projects oracle relational tailor databases use pyramids functional parallel architecture imporove database performance said reached agreement information builders focus language database management available pyramid technology superminicomputer systems
+17033///23.4.1987///special japanese envoy shintaro abe said brief interview reuters feeling congress severe japan abe said believed congress reagan administration wants undermine relations japan said reagan administration showed relative understanding japan trying alleviate trade imbalance abe said convinced congress administration view relationship tokyo washington undermined
+20255///1.3.1987///secretary state george shultz likely visit moscow soon talks following new soviet arms control proposals officials said officials told reuters decision reached trip place likely month kremlin leader mikhail gorbachev proposed saturday talks medium range missiles separated arms issues schultz currently visiting peking
+21576///19.10.1987///black miners killed injured rock fall km underground south african gold owners said sunday rand mines properties south africas big mining companies said statement accident occurred saturday morning lteast rand proprietary mines boksburg 25 km east johannesburg company spokesman elaborate short statement
+22996///9.3.1987///union bank finland issuing 10 billion yen eurobond march 30 1992 paying pct priced 10238 pct lead manager ltcb international said bond available denominations mln yen listed luxembourg payment date march 30 fees comprise 114 pct selling concession 58 pct management underwriting combined
+Please, enter a command:
+quit
+Program terminated.

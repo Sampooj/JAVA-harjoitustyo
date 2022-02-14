@@ -1,0 +1,8 @@
+echo
+sort date
+print
+sort id
+print
+sort type
+print
+quit

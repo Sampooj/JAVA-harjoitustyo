@@ -1,0 +1,7 @@
+echo
+freqs
+sort type
+print
+sort id
+pprint 75
+quit

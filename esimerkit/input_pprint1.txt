@@ -1,0 +1,3 @@
+echo
+pprint 27
+quit

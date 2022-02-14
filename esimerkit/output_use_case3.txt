@@ -1,0 +1,296 @@
+Welcome to L.O.T.
+Please, enter a command:
+echo
+Please, enter a command:
+freqs
+"I'll 1
+"Star 1
+#DontDrinkBleach 1
+#Lysol 1
+#disinfectant 1
+- 1
+50 1
+A 1
+A: 1
+American 1
+Anakin 1
+And 3
+Because 1
+Because, 1
+Chuck 8
+Comb 1
+Corona 2
+Coronavirus. 1
+Dark 3
+Darth 1
+Donald 1
+Horror 1
+How 2
+I 2
+Lannister? 1
+Like, 1
+Lord? 1
+None. 1
+Norris 7
+Norris' 1
+Obama 1
+One 1
+Over 1
+Q: 1
+Right? 1
+Ritis. 1
+Side 1
+Side. 2
+Sith 2
+Skywalker 1
+So 2
+Sometimes 1
+Story 1
+Tell 1
+The 5
+They 1
+This 1
+To 2
+Trump 2
+Trying 1
+Twice. 1
+Virus, 1
+Wars" 1
+We 1
+When 1
+Who 1
+Why 2
+a 15
+about 2
+administration 1
+all 1
+almost 1
+and 5
+apocalypse 1
+are 2
+as 2
+bad, 1
+bar 1
+bartender 1
+be 2
+because 1
+been 1
+bit 1
+boots 1
+broken 1
+but 2
+by 1
+can 2
+can't 1
+change 2
+check 1
+cleaning? 1
+come 1
+cordless 1
+counted 1
+cowboy 1
+cowboys. 1
+cross 1
+debts. 1
+destroyed 1
+did 1
+difficult. 1
+disinfectant 1
+do 2
+do. 1
+doctors, 1
+does 2
+doesn't 1
+element 1
+exploded. 1
+exposed 1
+for 1
+forced. 1
+from 1
+get 3
+gets 1
+goes 1
+going 1
+good. 1
+great 1
+grenade 1
+has 1
+have 2
+he 1
+him 1
+his 1
+hold 1
+in 2
+in. 1
+infinity. 1
+injection 1
+inside 1
+interesting 2
+into 1
+is 4
+it 10
+it'd 1
+joke 1
+jokes 1
+killed 1
+knocks 1
+know 1
+last 1
+left 1
+letter 1
+lightbulb? 2
+like 1
+lords 1
+lungs, 1
+lungs. 1
+made 1
+man 1
+many 1
+me. 1
+medical 1
+minute. 2
+month. 1
+never 1
+not 1
+nothing. 1
+now 1
+number 1
+obsolete 1
+of 1
+off 1
+oldest 1
+on 2
+only 1
+or 1
+out 1
+pays 1
+people, 1
+perfect 1
+perfect. 3
+periodic 1
+phone. 1
+please, 1
+prefer 1
+pretty 1
+probably 1
+put 1
+quarantine 1
+real 1
+recognizes 1
+road? 1
+says 1
+see 1
+see, 1
+seem 1
+something 1
+sounds 2
+started 1
+starts, 1
+strangle 1
+surprise. 1
+survive. 1
+table, 1
+take 1
+tests 2
+tests, 1
+that 2
+that, 1
+that. 1
+the 14
+then 2
+there 1
+they 1
+though. 1
+threw 1
+to 12
+too 1
+transcription 1
+tremendous 1
+try 1
+up 2
+us 1
+use 1
+virus 1
+virus" 1
+walks 1
+was 3
+way 1
+we 1
+where 1
+with 3
+won't 1
+you 4
+you're 1
+zombie 1
+zombies 1
+A total of 335 words.
+Please, enter a command:
+sort type
+Please, enter a command:
+print
+400///chuck norris///Chuck Norris threw a grenade and killed 50 people, then it exploded.
+401///chuck norris///When a zombie apocalypse starts, Chuck Norris doesn't try to survive. The zombies do.
+402///chuck norris///Chuck Norris counted to infinity. Twice.
+403///chuck norris///Chuck Norris can strangle you with a cordless phone.
+404///chuck norris///Chuck Norris' cowboy boots are made from real cowboys.
+405///chuck norris///Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes the element of surprise.
+300///corona///I know a great joke about Corona Virus, you probably won't get it though.
+301///corona///A man walks into a bar and goes up to the bartender and says "I'll have a Corona please, hold the virus"
+302///corona///Chuck Norris has been exposed to the Coronavirus. The virus is now in quarantine for a month.
+200///star wars///Why did Anakin Skywalker cross the road? To get to the Dark Side.
+201///star wars///Q: How many Sith lords does it take to change a lightbulb? A: None. They prefer the Dark Side.
+202///star wars///Trying to come up with jokes about "Star Wars" is difficult. Sometimes they seem a bit too forced.
+203///star wars///Who is the oldest Sith Lord? Darth Ritis.
+100///trump///How do you get Trump to change a lightbulb? Tell him Obama put it in.
+101///trump///Why can't Donald Trump be a Lannister? Because he never pays his debts.
+102///trump///Comb Over To The Dark Side
+103///trump///American Horror Story #disinfectant #Lysol #DontDrinkBleach
+104///trump///And the tests are all perfect. Like, the letter was perfect. The transcription was perfect. Right? This was not as perfect as that but pretty good.
+105///trump///The last administration left us nothing. We started off with bad, broken tests, and obsolete tests
+106///trump///And then I see the disinfectant where it knocks it out in a minute. One minute. And is there a way we can do something like that, by injection inside or almost a cleaning? Because, you see, it gets on the lungs, and it does a tremendous number on the lungs. So it'd be interesting to check that. So that you're going to have to use medical doctors, but it sounds - it sounds interesting to me.
+Please, enter a command:
+sort id
+Please, enter a command:
+pprint 75
+100///trump///How do you get Trump to change a lightbulb? Tell him Obama
+put it in.
+101///trump///Why can't Donald Trump be a Lannister? Because he never pays
+his debts.
+102///trump///Comb Over To The Dark Side
+103///trump///American Horror Story #disinfectant #Lysol #DontDrinkBleach
+104///trump///And the tests are all perfect. Like, the letter was perfect.
+The transcription was perfect. Right? This was not as perfect as that but
+pretty good.
+105///trump///The last administration left us nothing. We started off with
+bad, broken tests, and obsolete tests
+106///trump///And then I see the disinfectant where it knocks it out in a
+minute. One minute. And is there a way we can do something like that, by
+injection inside or almost a cleaning? Because, you see, it gets on the
+lungs, and it does a tremendous number on the lungs. So it'd be interesting
+to check that. So that you're going to have to use medical doctors, but it
+sounds - it sounds interesting to me.
+200///star wars///Why did Anakin Skywalker cross the road? To get to the
+Dark Side.
+201///star wars///Q: How many Sith lords does it take to change a
+lightbulb? A: None. They prefer the Dark Side.
+202///star wars///Trying to come up with jokes about "Star Wars" is
+difficult. Sometimes they seem a bit too forced.
+203///star wars///Who is the oldest Sith Lord? Darth Ritis.
+300///corona///I know a great joke about Corona Virus, you probably won't
+get it though.
+301///corona///A man walks into a bar and goes up to the bartender and says
+"I'll have a Corona please, hold the virus"
+302///corona///Chuck Norris has been exposed to the Coronavirus. The virus
+is now in quarantine for a month.
+400///chuck norris///Chuck Norris threw a grenade and killed 50 people,
+then it exploded.
+401///chuck norris///When a zombie apocalypse starts, Chuck Norris doesn't
+try to survive. The zombies do.
+402///chuck norris///Chuck Norris counted to infinity. Twice.
+403///chuck norris///Chuck Norris can strangle you with a cordless phone.
+404///chuck norris///Chuck Norris' cowboy boots are made from real cowboys.
+405///chuck norris///Chuck Norris destroyed the periodic table, because
+Chuck Norris only recognizes the element of surprise.
+Please, enter a command:
+quit
+Program terminated.

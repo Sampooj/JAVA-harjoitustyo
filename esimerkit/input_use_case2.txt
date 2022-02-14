@@ -1,0 +1,13 @@
+echo
+polish ,.&:"()$-
+print
+polish '
+print
+find striker
+find club
+find europe
+find music
+find world
+find europe music
+find computer music
+quit

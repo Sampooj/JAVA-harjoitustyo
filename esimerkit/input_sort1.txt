@@ -1,0 +1,11 @@
+echo
+sort type
+print
+sort id
+print
+sort date
+print
+sort
+sort dec
+sort it now
+quit

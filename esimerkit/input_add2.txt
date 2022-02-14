@@ -1,0 +1,16 @@
+echo
+add 21500///26.2.1987///Microsoft Corp said it obtained a federal court order to seize a shipment of over 15,000 unauthorized copies of its MS-DOS operating system labeled "Falcon MS-DOS". Federal marshals made the seizure in San Francisco on Feb 17. Microsoft said the U.S. District Court for the Northern District of California also granted it a temporary restraning order against Wetex International, Quadrant Corp and other persons, prohibiting copyright infringement by reproducing Microsoft software.
+print 21500
+add 1024///1.4.1987///Cyprus Minerals Company said it is decreasing its electrolytic copper cathode price by 1.25 cents to 67.0 cents a pound, effective immediately.
+print 1024
+add 10370///19.10.1987///U.S. Energy Secretary John Herrington arrived in Rabat on Monday after a tour of the Gulf and the Middle East. Herrington, who is scheduled to meet King Hassan during his 24-hour official visit, said on arrival he would discuss regional and international issues with Moroccan leaders. Morocco is the last stop of a tour that has taken Herrington to Iraq, Kuwait, Qatar, Bahrain, Saudi Arabia and Egypt.
+print 10370
+print
+add 22996///9.3.1987///Union Bank of Finland is issuing a 10 billion yen eurobond due March 30, 1992 paying five pct and priced at 102-3/8 pct, lead manager LTCB International Ltd said. The bond is available in denominations of one mln yen and will be listed in Luxembourg. Payment date is March 30. Fees comprise 1-1/4 pct selling concession and 5/8 pct for management and underwriting combined.
+add 21500///26.2.1987///Microsoft Corp said it obtained a federal court order to seize a shipment of over 15,000 unauthorized copies of its MS-DOS operating system labeled "Falcon MS-DOS". Federal marshals made the seizure in San Francisco on Feb 17. Microsoft said the U.S. District Court for the Northern District of California also granted it a temporary restraning order against Wetex International, Quadrant Corp and other persons, prohibiting copyright infringement by reproducing Microsoft software.
+add 1024///1.4.1987///Cyprus Minerals Company said it is decreasing its electrolytic copper cathode price by 1.25 cents to 67.0 cents a pound, effective immediately.
+add 10370///19.10.1987///U.S. Energy Secretary John Herrington arrived in Rabat on Monday after a tour of the Gulf and the Middle East. Herrington, who is scheduled to meet King Hassan during his 24-hour official visit, said on arrival he would discuss regional and international issues with Moroccan leaders. Morocco is the last stop of a tour that has taken Herrington to Iraq, Kuwait, Qatar, Bahrain, Saudi Arabia and Egypt.
+add
+add 1 2 3 4 12024///1.4.1987///Cyprus Minerals Company said it is decreasing its electrolytic copper cathode price by 1.25 cents to 67.0 cents a pound, effective immediately.
+add 6///computing///Q. How does a computer get drunk? A. It takes screenshots.
+quit

@@ -1,0 +1,457 @@
+Welcome to L.O.T.
+Please, enter a command:
+echo
+Please, enter a command:
+print 1
+1///miscellaneous///Q. What's the difference between ignorance and apathy? A. I don't know and I don't care.
+Please, enter a command:
+freqs 1
+A. 1
+I 2
+Q. 1
+What's 1
+and 2
+apathy? 1
+between 1
+care. 1
+difference 1
+don't 2
+ignorance 1
+know 1
+the 1
+A total of 16 words.
+Please, enter a command:
+print 2
+2///miscellaneous///Did you hear about the semi-colon that broke the law? He was given two consecutive sentences.
+Please, enter a command:
+freqs 2
+Did 1
+He 1
+about 1
+broke 1
+consecutive 1
+given 1
+hear 1
+law? 1
+semi-colon 1
+sentences. 1
+that 1
+the 2
+two 1
+was 1
+you 1
+A total of 16 words.
+Please, enter a command:
+print 3
+3///miscellaneous///Nothing sucks like a Hoover.
+Please, enter a command:
+freqs 3
+Hoover. 1
+Nothing 1
+a 1
+like 1
+sucks 1
+A total of 5 words.
+Please, enter a command:
+print 4
+4///miscellaneous///This may be the wine talking, but I really, really, really, really love wine.
+Please, enter a command:
+freqs 4
+I 1
+This 1
+be 1
+but 1
+love 1
+may 1
+really 1
+really, 3
+talking, 1
+the 1
+wine 1
+wine. 1
+A total of 14 words.
+Please, enter a command:
+print 5
+5///computing///Q. What is the biggest lie in the entire universe? A. "I have read and agree to the Terms & Conditions."
+Please, enter a command:
+freqs 5
+"I 1
+& 1
+A. 1
+Conditions." 1
+Q. 1
+Terms 1
+What 1
+agree 1
+and 1
+biggest 1
+entire 1
+have 1
+in 1
+is 1
+lie 1
+read 1
+the 3
+to 1
+universe? 1
+A total of 21 words.
+Please, enter a command:
+print 6
+6///computing///Q. How does a computer get drunk? A. It takes screenshots.
+Please, enter a command:
+freqs 6
+A. 1
+How 1
+It 1
+Q. 1
+a 1
+computer 1
+does 1
+drunk? 1
+get 1
+screenshots. 1
+takes 1
+A total of 11 words.
+Please, enter a command:
+print 7
+7///computing///Q: How many programmers does it take to change a light bulb? A: None. It's a hardware problem.
+Please, enter a command:
+freqs 7
+A: 1
+How 1
+It's 1
+None. 1
+Q: 1
+a 2
+bulb? 1
+change 1
+does 1
+hardware 1
+it 1
+light 1
+many 1
+problem. 1
+programmers 1
+take 1
+to 1
+A total of 18 words.
+Please, enter a command:
+print 8
+8///computing///A SQL query goes into a bar, walks up to two tables and asks, "Can I join you?"
+Please, enter a command:
+freqs 8
+"Can 1
+A 1
+I 1
+SQL 1
+a 1
+and 1
+asks, 1
+bar, 1
+goes 1
+into 1
+join 1
+query 1
+tables 1
+to 1
+two 1
+up 1
+walks 1
+you?" 1
+A total of 18 words.
+Please, enter a command:
+print 9
+9///computing///If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl programs.
+Please, enter a command:
+freqs 9
+If 1
+Java 1
+Perl 1
+The 1
+a 3
+at 1
+eventually 1
+keyboards, 1
+million 2
+monkeys 1
+of 2
+one 1
+program. 1
+programs. 1
+put 1
+rest 1
+them 2
+will 2
+write 2
+you 1
+A total of 27 words.
+Please, enter a command:
+print 10
+10///computing///To understand what recursion is, you must first understand recursion.
+Please, enter a command:
+freqs 10
+To 1
+first 1
+is, 1
+must 1
+recursion 1
+recursion. 1
+understand 2
+what 1
+you 1
+A total of 10 words.
+Please, enter a command:
+print 11
+11///computing///These two strings walk into a bar and sit down. The bartender says, "So what'll it be?" The first string says, "I think I'll have a beer quag fulk boorg jdk^CjfdLk jk3s d#f67howe%^U r89nvy owmc63^Dz x.xvcu." "Please excuse my friend," the second string says, "He isn't null-terminated."
+Please, enter a command:
+freqs 11
+"He 1
+"I 1
+"Please 1
+"So 1
+I'll 1
+The 2
+These 1
+a 2
+and 1
+bar 1
+bartender 1
+be?" 1
+beer 1
+boorg 1
+d#f67howe%^U 1
+down. 1
+excuse 1
+first 1
+friend," 1
+fulk 1
+have 1
+into 1
+isn't 1
+it 1
+jdk^CjfdLk 1
+jk3s 1
+my 1
+null-terminated." 1
+owmc63^Dz 1
+quag 1
+r89nvy 1
+says, 3
+second 1
+sit 1
+string 2
+strings 1
+the 1
+think 1
+two 1
+walk 1
+what'll 1
+x.xvcu." 1
+A total of 47 words.
+Please, enter a command:
+print 12
+12///computing///When your hammer is C++, everything begins to look like a thumb.
+Please, enter a command:
+freqs 12
+C++, 1
+When 1
+a 1
+begins 1
+everything 1
+hammer 1
+is 1
+like 1
+look 1
+thumb. 1
+to 1
+your 1
+A total of 12 words.
+Please, enter a command:
+print
+1///miscellaneous///Q. What's the difference between ignorance and apathy? A. I don't know and I don't care.
+2///miscellaneous///Did you hear about the semi-colon that broke the law? He was given two consecutive sentences.
+3///miscellaneous///Nothing sucks like a Hoover.
+4///miscellaneous///This may be the wine talking, but I really, really, really, really love wine.
+5///computing///Q. What is the biggest lie in the entire universe? A. "I have read and agree to the Terms & Conditions."
+6///computing///Q. How does a computer get drunk? A. It takes screenshots.
+7///computing///Q: How many programmers does it take to change a light bulb? A: None. It's a hardware problem.
+8///computing///A SQL query goes into a bar, walks up to two tables and asks, "Can I join you?"
+9///computing///If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl programs.
+10///computing///To understand what recursion is, you must first understand recursion.
+11///computing///These two strings walk into a bar and sit down. The bartender says, "So what'll it be?" The first string says, "I think I'll have a beer quag fulk boorg jdk^CjfdLk jk3s d#f67howe%^U r89nvy owmc63^Dz x.xvcu." "Please excuse my friend," the second string says, "He isn't null-terminated."
+12///computing///When your hammer is C++, everything begins to look like a thumb.
+Please, enter a command:
+freqs
+"Can 1
+"He 1
+"I 2
+"Please 1
+"So 1
+& 1
+A 1
+A. 3
+A: 1
+C++, 1
+Conditions." 1
+Did 1
+He 1
+Hoover. 1
+How 2
+I 4
+I'll 1
+If 1
+It 1
+It's 1
+Java 1
+None. 1
+Nothing 1
+Perl 1
+Q. 3
+Q: 1
+SQL 1
+Terms 1
+The 3
+These 1
+This 1
+To 1
+What 1
+What's 1
+When 1
+a 11
+about 1
+agree 1
+and 5
+apathy? 1
+asks, 1
+at 1
+bar 1
+bar, 1
+bartender 1
+be 1
+be?" 1
+beer 1
+begins 1
+between 1
+biggest 1
+boorg 1
+broke 1
+bulb? 1
+but 1
+care. 1
+change 1
+computer 1
+consecutive 1
+d#f67howe%^U 1
+difference 1
+does 2
+don't 2
+down. 1
+drunk? 1
+entire 1
+eventually 1
+everything 1
+excuse 1
+first 2
+friend," 1
+fulk 1
+get 1
+given 1
+goes 1
+hammer 1
+hardware 1
+have 2
+hear 1
+ignorance 1
+in 1
+into 2
+is 2
+is, 1
+isn't 1
+it 2
+jdk^CjfdLk 1
+jk3s 1
+join 1
+keyboards, 1
+know 1
+law? 1
+lie 1
+light 1
+like 2
+look 1
+love 1
+many 1
+may 1
+million 2
+monkeys 1
+must 1
+my 1
+null-terminated." 1
+of 2
+one 1
+owmc63^Dz 1
+problem. 1
+program. 1
+programmers 1
+programs. 1
+put 1
+quag 1
+query 1
+r89nvy 1
+read 1
+really 1
+really, 3
+recursion 1
+recursion. 1
+rest 1
+says, 3
+screenshots. 1
+second 1
+semi-colon 1
+sentences. 1
+sit 1
+string 2
+strings 1
+sucks 1
+tables 1
+take 1
+takes 1
+talking, 1
+that 1
+the 8
+them 2
+think 1
+thumb. 1
+to 4
+two 3
+understand 2
+universe? 1
+up 1
+walk 1
+walks 1
+was 1
+what 1
+what'll 1
+will 2
+wine 1
+wine. 1
+write 2
+x.xvcu." 1
+you 3
+you?" 1
+your 1
+A total of 215 words.
+Please, enter a command:
+freqs 0
+Error!
+Please, enter a command:
+freqs x
+Error!
+Please, enter a command:
+freqs 1 2
+Error!
+Please, enter a command:
+freqs ten
+Error!
+Please, enter a command:
+quit
+Program terminated.

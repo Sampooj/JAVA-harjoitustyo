@@ -1,0 +1,5 @@
+echo
+freqs
+polish .,'/"-&;
+freqs
+quit

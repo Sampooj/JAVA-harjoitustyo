@@ -1,0 +1,20 @@
+echo
+remove 11
+print 11
+print
+remove 1
+print 1
+remove 12
+print 12
+print
+remove 0
+remove 12345
+remove 1
+remove 11
+remove 12
+remove
+remove 6 7
+remove x
+remove this and that
+print
+quit

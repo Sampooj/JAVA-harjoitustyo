@@ -1,0 +1,15 @@
+echo
+print
+add 303///corona///Mexico is asking Trump to hurry up and build the wall NOW!
+print 303
+remove 101
+find Lannister
+find #Lysol
+find Corona
+find Trump
+find test virus
+find Dark Side
+polish :?.#"',-!
+print
+find dark side
+quit

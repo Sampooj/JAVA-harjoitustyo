@@ -1,0 +1,82 @@
+Welcome to L.O.T.
+Please, enter a command:
+echo
+Please, enter a command:
+print
+100///trump///How do you get Trump to change a lightbulb? Tell him Obama put it in.
+101///trump///Why can't Donald Trump be a Lannister? Because he never pays his debts.
+102///trump///Comb Over To The Dark Side
+103///trump///American Horror Story #disinfectant #Lysol #DontDrinkBleach
+104///trump///And the tests are all perfect. Like, the letter was perfect. The transcription was perfect. Right? This was not as perfect as that but pretty good.
+105///trump///The last administration left us nothing. We started off with bad, broken tests, and obsolete tests
+106///trump///And then I see the disinfectant where it knocks it out in a minute. One minute. And is there a way we can do something like that, by injection inside or almost a cleaning? Because, you see, it gets on the lungs, and it does a tremendous number on the lungs. So it'd be interesting to check that. So that you're going to have to use medical doctors, but it sounds - it sounds interesting to me.
+200///star wars///Why did Anakin Skywalker cross the road? To get to the Dark Side.
+201///star wars///Q: How many Sith lords does it take to change a lightbulb? A: None. They prefer the Dark Side.
+202///star wars///Trying to come up with jokes about "Star Wars" is difficult. Sometimes they seem a bit too forced.
+203///star wars///Who is the oldest Sith Lord? Darth Ritis.
+300///corona///I know a great joke about Corona Virus, you probably won't get it though.
+301///corona///A man walks into a bar and goes up to the bartender and says "I'll have a Corona please, hold the virus"
+302///corona///Chuck Norris has been exposed to the Coronavirus. The virus is now in quarantine for a month.
+400///chuck norris///Chuck Norris threw a grenade and killed 50 people, then it exploded.
+401///chuck norris///When a zombie apocalypse starts, Chuck Norris doesn't try to survive. The zombies do.
+402///chuck norris///Chuck Norris counted to infinity. Twice.
+403///chuck norris///Chuck Norris can strangle you with a cordless phone.
+404///chuck norris///Chuck Norris' cowboy boots are made from real cowboys.
+405///chuck norris///Chuck Norris destroyed the periodic table, because Chuck Norris only recognizes the element of surprise.
+Please, enter a command:
+add 303///corona///Mexico is asking Trump to hurry up and build the wall NOW!
+Please, enter a command:
+print 303
+303///corona///Mexico is asking Trump to hurry up and build the wall NOW!
+Please, enter a command:
+remove 101
+Please, enter a command:
+find Lannister
+Please, enter a command:
+find #Lysol
+103
+Please, enter a command:
+find Corona
+300
+301
+Please, enter a command:
+find Trump
+100
+303
+Please, enter a command:
+find test virus
+Please, enter a command:
+find Dark Side
+102
+Please, enter a command:
+polish :?.#"',-!
+Please, enter a command:
+print
+100///trump///do you get trump change lightbulb tell him obama put
+102///trump///comb over dark side
+103///trump///american horror story disinfectant lysol dontdrinkbleach
+104///trump///and tests all perfect like letter perfect transcription perfect right not perfect but pretty good
+105///trump///last administration left us nothing we started off bad broken tests and obsolete tests
+106///trump///and then see disinfectant knocks out minute one minute and there way we can do something like injection inside almost cleaning because you see gets lungs and does tremendous number lungs so itd interesting check so youre going have use medical doctors but sounds sounds interesting me
+200///star wars///why did anakin skywalker cross road get dark side
+201///star wars///q many sith lords does take change lightbulb none they prefer dark side
+202///star wars///trying come up jokes star wars difficult sometimes they seem bit too forced
+203///star wars///oldest sith lord darth ritis
+300///corona///know great joke corona virus you probably wont get though
+301///corona///man walks into bar and goes up bartender and says ill have corona please hold virus
+302///corona///chuck norris has been exposed coronavirus virus now quarantine month
+303///corona///mexico asking trump hurry up and build wall now
+400///chuck norris///chuck norris threw grenade and killed 50 people then exploded
+401///chuck norris///zombie apocalypse starts chuck norris doesnt try survive zombies do
+402///chuck norris///chuck norris counted infinity twice
+403///chuck norris///chuck norris can strangle you cordless phone
+404///chuck norris///chuck norris cowboy boots made real cowboys
+405///chuck norris///chuck norris destroyed periodic table because chuck norris only recognizes element surprise
+Please, enter a command:
+find dark side
+102
+200
+201
+Please, enter a command:
+quit
+Program terminated.
